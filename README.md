@@ -1,1 +1,1 @@
-# www.pipits.org
+# DEPRECATED
